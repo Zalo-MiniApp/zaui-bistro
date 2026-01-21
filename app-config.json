@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "zaui-coffee-and-food",
+    "textColor": {
+      "light": "black",
+      "dark": "white"
+    },
+    "statusBar": "transparent",
+    "headerColor": "#F7F8FA",
+    "actionBarHidden": true,
+    "hideIOSSafeAreaBottom": true,
+    "hideAndroidBottomNavigationBar": false
+  },
+  "template": {
+    "name": "zaui-bistro"
+  },
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}

@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+
+:root {
+  --zaui-light-bottom-navigation-divider-color: transparent;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.zaui-list-item {
+  cursor: pointer;
+}
+
+.page {
+  padding: 12px;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.page-content {
+  padding-top: var(--zaui-safe-area-inset-top, 16px);
+  padding-bottom: var(--zaui-safe-area-inset-bottom, 16px);
+}
+
+.header-margin {
+  margin-top: var(--zaui-safe-area-inset-top, 16px);
+}
+
+.zaui-bottom-navigation-item-active .zaui-bottom-navigation-item-label {
+  color: theme("colors.primary");
+}
