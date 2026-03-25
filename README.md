@@ -53,7 +53,7 @@ Dự án sử dụng các công nghệ mới nhất:
 
 ### Sử dụng Zalo Mini App Extension
 
-1. Cài đặt [Visual Studio Code](https://code.visualstudio.com/download) và [Zalo Mini App Extension](https://mini.zalo.me/docs/dev-tools).
+1. Cài đặt [Visual Studio Code](https://code.visualstudio.com/download) và [Zalo Mini App Extension](https://miniapp.zaloplatforms.com/documents/devtools).
 2. Nhấp vào **Create Project** > Chọn template **ZaUI Bistro** > Đợi khởi tạo dự án.
 3. Cấu hình **App ID** và **Install Dependencies**, sau đó vào bảng **Run** > chọn **Start** để bắt đầu phát triển 🚀
 
